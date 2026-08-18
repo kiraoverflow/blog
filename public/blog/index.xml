@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Journey</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Journey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nordine.contact@proton.me (Nordine Benamara)</managingEditor>
+    <webMaster>nordine.contact@proton.me (Nordine Benamara)</webMaster>
+    <copyright>Made with :heart:</copyright>
+    <lastBuildDate>Sun, 16 Aug 2026 23:56:43 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Finally,a Reassuring Take on Artificial Intelligence</title>
+      <link>http://localhost:1313/blog/finally-a-reassuring-take-on-artificial-intelligence/</link>
+      <pubDate>Sun, 16 Aug 2026 23:56:43 +0000</pubDate>
+      <author>nordine.contact@proton.me (Nordine Benamara)</author>
+      <guid>http://localhost:1313/blog/finally-a-reassuring-take-on-artificial-intelligence/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/finally-a-reassuring-take-on-artificial-intelligence/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Role of Advanced Threat Actors in Geopolitics</title>
+      <link>http://localhost:1313/blog/the-role-of-apt-in-the-geopolitics-game/</link>
+      <pubDate>Sun, 16 Aug 2026 22:51:52 +0000</pubDate>
+      <author>nordine.contact@proton.me (Nordine Benamara)</author>
+      <guid>http://localhost:1313/blog/the-role-of-apt-in-the-geopolitics-game/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/the-role-of-apt-in-the-geopolitics-game/featured.png" />
+    </item>
+    
+    <item>
+      <title>FLOCK CAMERA - A Shield for the Innocent or an Economic Sword ?</title>
+      <link>http://localhost:1313/blog/flock-camera-and-integrity/</link>
+      <pubDate>Sun, 16 Aug 2026 21:46:34 +0000</pubDate>
+      <author>nordine.contact@proton.me (Nordine Benamara)</author>
+      <guid>http://localhost:1313/blog/flock-camera-and-integrity/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/flock-camera-and-integrity/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -29,4 +29,16 @@ go.work.sum
 
 # Editor/IDE
 # .idea/
-# .vscode/
+# .vscode
+
+# Hugo generated output
+/public/
+/resources/_gen/
+
+# Hugo cache
+.hugo_build.lock
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
